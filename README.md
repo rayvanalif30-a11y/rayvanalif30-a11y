@@ -13,7 +13,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/about.svg" width="100%" alt="About: IT student at Telkom University building interactive websites and campus web apps. Staff Muda at KPM HMIT (Oct 2025 – Jan 2026). HaKI copyright holder for the Trans TucTuc app. Open to internships and collaborations.">
+<img src="assets/about.svg" width="100%" alt="About: IT student at Telkom University building interactive websites and campus web apps. Staff Muda at KPM HMIT (Oct 2025 – Jan 2026). HaKI copyright holder for the Trans TucTuc app. Certificates: HaKI copyright for Trans TucTuc (DJKI, 2026) and Workshop Cyber Security by Dunia Coding (Jul 2026). Open to internships and collaborations.">
 
 ## Featured projects
 

@@ -168,7 +168,9 @@ def terminal():
         ("out", "Campus web apps: Node.js + Express, Supabase"),
         ("cmd", "cat experience.txt"),
         ("out", "Staff Muda, KPM HMIT (Oct 2025 – Jan 2026)"),
-        ("out", "HaKI copyright holder: Trans TucTuc app"),
+        ("cmd", "ls certificates/"),
+        ("out", "HaKI copyright, Trans TucTuc app (DJKI, 2026)"),
+        ("out", "Workshop Cyber Security, Dunia Coding (Jul 2026)"),
         ("cmd", "echo $STATUS"),
         ("ok", "Open to internships & collaborations"),
     ]
